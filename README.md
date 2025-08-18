@@ -1,6 +1,6 @@
 # Foundry Agents Tracing Demo with Frontend
 
-This small console application to demonstrate a multi-agent system built with Semantic Kernel and the Azure AI Foundry Tracing capabilities.
+This small console application to demonstrate a multi-agent system built with Semantic Kernel and Azure AI Foundry Tracing.
 
 ## Setup
 
